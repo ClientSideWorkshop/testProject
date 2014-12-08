@@ -1,0 +1,25 @@
+{
+  "name": "testexpre",
+  "version": "1.0.0",
+  "description": "my_kukuriku",
+  "main": "index.js",
+  "scripts": {
+    "test": "testmenow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClientSideWorkshop/testProject.git"
+  },
+  "keywords": [
+    "testme"
+  ],
+  "author": "Adiel Ivantsiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClientSideWorkshop/testProject/issues"
+  },
+  "homepage": "https://github.com/ClientSideWorkshop/testProject",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
+}
